@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: dk.brics:automaton:1.12-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dk.brics/automaton/1.12-1/959a0c62f9a5c2309e0ad0b0589c74d69e101241/automaton-1.12-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dk.brics/automaton/1.12-1/a7add82c2ef1811ad7deb1d2530eabdd436ff8d/automaton-1.12-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
