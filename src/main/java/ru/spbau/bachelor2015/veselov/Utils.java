@@ -25,6 +25,10 @@ public class Utils {
             }
         }
 
+        if (min + 1 == max) {
+            return min + ", " + max;
+        }
+
         return "[" + min + ".." + max + "]";
     }
 
